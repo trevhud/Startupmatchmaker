@@ -64,7 +64,7 @@ p {
         float: right;
 }
 
-#page-header nav li {
+#page-header .nav-collapse li {
         float: left;
 }
 
